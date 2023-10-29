@@ -1,12 +1,12 @@
 export const questions = [
     {
-      question: "Qual é a definição de reciclagem?",
+      question: "1- Quando começa o conflito no curta?",
 
       answers: [
-        { option: "a)Transformação de resíduos em energia", correct: false },
-        { option: "b)Reutilização de materiais descartados", correct: true },
-        { option: "c)Compostagem de resíduos orgânicos", correct: false },
-        { option: "d)Incineração de resíduos perigosos", correct: false },
+        { option: "a) Quando o protagonista percebe que está atrasado para o trabalho.", correct: false },
+        { option: "b)Quando o protagonista decide lançar seu avião de papel pela janela do escritório.", correct: false },
+        { option: "c)Quando a folha de seu trabalho acerta a mulher na estação de metrô.", correct: true },
+        { option: "Quando o protagonista perde o último trem do metrô e fica preso na estação.", correct: false },
       ],
     },
     {
@@ -20,33 +20,33 @@ export const questions = [
       ],
     },
     {
-      question: "Qual é o objetivo principal da reciclagem?",
+      question: "2- Em qual momento do curta se chega o clímax?",
 
       answers: [
-        { option: "a)Reduzir a quantidade de resíduos enviados para aterros sanitários", correct: true },
-        { option: "b)Aumentar a produção de materiais descartáveis", correct: false },
-        { option: "c)Economizar energia na produção de novos materiais", correct: false },
-        { option: "d)Aumentar a poluição ambiental", correct: false },
+        { option: "a)O protagonista lança o primeiro avião de papel pela janela de seu escritório.", correct: false },
+        { option: "b)Quando o protagonista e a mulher se encontram pela primeira vez na estação de metrô.", correct: false },
+        { option: "c)Quando o protagonista decide escrever uma mensagem em um papel e lançá-lo pela janela.", correct: false },
+        { option: "d)Quando o protagonista e a mulher se encontram novamente no metrô.", correct: true },
       ],
     },
     {
-      question: "O que significa o símbolo de reciclagem composto por três setas em forma de um triângulo fechado?",
+      question: "3- Qual foi o intuito do protagonista ao jogar aviões de papel pela janela de seu trabalho?",
 
       answers: [
-        { option: "a)Material reciclável", correct: true },
-        { option: "b)Material não reciclável", correct: false },
-        { option: "c)Material biodegradável", correct: false },
-        { option: "d)Material perigoso", correct: false },
+        { option: "a) Chamar a atenção da moça na estação de metrô.", correct: true },
+        { option: "b)Chamar a atenção de sua chefe para impressioná-la com sua criatividade.", correct: false },
+        { option: "c)Ele estava entediado com seu trabalho e estava tentando se distrair.", correct: false },
+        { option: "d)Ele queria jogar os seus trabalhos fora.", correct: false },
       ],
     },
   {
-    question: "Qual é o processo de transformar materiais recicláveis em novos produtos chamado?",
+    question: "4- Qual a mensagem que o curta metragem passa?",
 
     answers: [
-      { option: "a)Reprocessamento", correct: true },
-      { option: "b)Recuperação de energia", correct: false },
-      { option: "c)Reutilização", correct: false },
-      { option: "d)Compostagem", correct: false },
+      { option: "a)É sobre como as pessoas não devem seguir seus sentimentos.", correct: false },
+      { option: "b)É sobre a importância de priorizar o trabalho sobre relacionamentos pessoais.", correct: true },
+      { option: "c)É sobre o poder do destino e como o amor verdadeiro pode superar obstáculos.", correct: false },
+      { option: "d)É que o amor à primeira vista nunca leva a relacionamentos duradouros.", correct: false },
     ],
   },
   {
